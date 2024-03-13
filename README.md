@@ -1,4 +1,4 @@
-# EuropeanHICPClustering
+# European HICP Clustering
 
 This repository contains R scripts for analyzing and clustering European countries based on their Harmonised Index of Consumer Prices (HICP). Using data from the Eurostat database, this project visualizes trends in HICP over time and groups countries with similar price inflation patterns.
 
